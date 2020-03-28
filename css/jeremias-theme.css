@@ -1,0 +1,145 @@
+body,html{
+  margin:0;
+  padding:0;
+}
+
+ /* Theme pink */
+ .theme--pink{
+   width: inherit;
+   margin-top: -2px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+  background-color:rgba(989, 80, 152, 0.980);
+  transition:.5s;
+ }
+ .theme--pink *{
+   color: white;
+   font-size: 18px;
+   margin:0;
+   padding:1.2em 0 .6em .7em;
+   font-family: roboto;
+ }
+
+ /* Theme blue */
+ .theme--blue{
+   width: inherit;
+   margin-top: -2px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+   background-color: rgb(90, 113, 219);
+   transition:.5s;
+ }
+ .theme--blue *{
+   color: white;
+   font-size: 18px;
+   margin:0;
+   padding:.5em 0 .5em .3em;
+   font-family: roboto;
+    padding:1.2em 0 .6em .7em;
+ }
+
+ /* Theme red */
+ .theme--red{
+   width: inherit;
+   margin-top: -0px;
+   border:none;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+   background-color: rgba(212, 36, 58, 0.904);
+   transition:.5s;
+ }
+ .theme--red *{
+   color: white;
+   font-size: 18px;
+   margin:0;
+   padding:1.2em 0 .6em .7em;
+   font-family: roboto;
+ }
+
+
+ /* Theme black */
+ .theme--black{
+   width: inherit;
+   margin-top: -2px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+   background-color: #222;
+   transition:.5s;
+ }
+ .theme--black *{
+   color: white;
+   font-size: 18px;
+   margin:0;
+   padding:1.2em 0 .6em .7em;
+   font-family: roboto;
+ }
+
+ /* Theme blue-dark */
+ .theme--blue-dark{
+   width: inherit;
+   margin-top: -2px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+   background-color: rgba(33, 52, 139, 0.984);
+   transition:.5s;
+ }
+ .theme--blue-dark *{
+   color: white;
+   font-size: 18px;
+   margin:0;
+   padding:1.2em 0 .6em .7em;
+   font-family: roboto;
+ }
+
+ /* Theme orange */
+ .theme--orange{
+   width: inherit;
+   margin-top: -2px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+   background-color: orangered;
+   transition:.5s;
+ }
+ .theme--orange *{
+   color: white;
+   font-size: 18px;
+   margin:0;
+    padding:1.2em 0 .6em .7em;
+   font-family: roboto;
+ }
+
+/* theme white */
+ .theme--white{
+   width: inherit;
+   margin-top: 0px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+   background-color: rgba(236, 230, 230, 0.904);
+   transition:.5s;
+ }
+ .theme--white *{
+   color: #444;
+   font-size: 18px;
+   margin:0;
+    padding:1.2em 0 .6em .7em;
+   font-family: roboto;
+ }
+
+
+
+ /* theme green */
+  .theme--green{
+    width: inherit;
+    margin-top: 0;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+     background-color: rgba(0%, 70%, 0%, 85%);
+    transition:.5s;
+  }
+  .theme--green *{
+    color: white;
+    font-size: 18px;
+    margin:0;
+     padding:1.2em 0 .6em .7em;
+    font-family: roboto;
+  }
